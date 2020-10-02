@@ -4,7 +4,7 @@ The Michigan Data Science Team and the Michigan Student Symposium for Interdisci
 Some feature engineering is performed to improve the baseline AUC score of ~0.5:
 
 - 1 : a feature has been derived to address the hypothesis that high concentrations of 
-      violations, geospatially, indicate overall lack of upkeep in many facets of the community, 
+      violations, geospatially, indicate overall lack of upkeep, 
       which then increases the likelihood of finding unpaid blight tickets in the area.
 - 2 : features that are highly correlated with other variables or simply have
       too much variation in categorical value that creates too many features (one hot) have been dropped
